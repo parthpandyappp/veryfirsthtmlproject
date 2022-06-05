@@ -1,0 +1,16 @@
+<HTML>
+<HEAD>
+<TITLE> THE BERMUDA TRIANGLE </TITLE></HEAD>
+<BODY background=y.jpg>
+<P><FONT FACE="COMIC SANS" SIZE=8> THE BERMUDA TRIANGLE </FONT>
+<IMG SRC="B.jpG" ALIGN="LEFT">
+<P><FONT FACE="TIMES NEW ROMAN" SIZE=6>The Bermuda Triangle is a mythical section of the Atlantic Ocean roughly bounded by Miami, Bermuda and Puerto Rico where dozens of ships and airplanes have
+ disappeared. Unexplained circumstances surround some of these accidents, including one in which the pilots of a squadron of U.S. Navy bombers became disoriented while flying over the area;
+ the planes were never found. Other boats and planes have seemingly vanished from the area in good weather without even radioing distress messages. But although myriad fanciful theories have
+ been proposed regarding the Bermuda Triangle, none of them prove that mysterious disappearances occur more frequently there than in other well-traveled sections of the ocean. In fact, people
+ navigate the area every day without incident.</FONT>
+<br><br><br><br><br><P><FONT FACE="ARIAL" SIZE=4>FOR FURTHER INFORMATION...</FONT><br><br><br><br><br>
+<A HREF=LEGEND.HTML>THE LEGEND OF BERMUDA TRIANGLE</A>
+<BR><A HREF=THEORY.HTML>THEORIES OF BERMUDA TRIANGLE</A>
+</BODY>
+</HTML>

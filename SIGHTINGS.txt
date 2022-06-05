@@ -1,0 +1,23 @@
+<HTML>
+<HEAD>
+<TITLE>POSSIBLE EXPLAINATIONS FOR UFO SIGHTINGS</TITLE></HEAD>
+<BODY background=PA.jpg>
+<P><FONT FACE="COMIC SANS" SIZE=8>POSSIBLE EXPLAINATIONS FOR UFO SIGHTINGS</FONT>
+<IMG SRC="o.jpg" ALIGN="LEFT">
+<P><FONT FACE="TIMES NEW ROMAN" SIZE=6>UFO reports have varied widely in reliability, as judged by the number of 
+witnesses, whether the witnesses were independent of each other, the observing conditions (e.g., fog, haze, type
+ of illumination), and the direction of sighting. Typically, witnesses who take the trouble to report a 
+sighting consider the object to be of extraterrestrial origin or possibly a military craft but certainly 
+under intelligent control. This inference is usually based on what is perceived as formation flying by sets
+ of objects, unnatural—often sudden—motions, the lack of sound, changes in brightness or colour, and strange shapes.
+<P>That the unaided eye plays tricks is well known. A bright light, such as the planet Venus, often appears to move.
+ Astronomical objects can also be disconcerting to drivers, as they seem to “follow” the car. Visual impressions of 
+distance and speed of UFOs are also highly unreliable because they are based on an assumed size and are often made 
+against a blank sky with no background object (clouds, mountains, etc.) to set a maximum distance. Reflections from 
+windows and eyeglasses produce superimposed views, and complex optical systems, such as camera lenses, can turn point
+ sources of light into apparently saucer-shaped phenomena. Such optical illusions and the psychological desire to 
+interpret images are known to account for many visual UFO reports, and at least some sightings are known to be hoaxes.
+ Radar sightings, while in certain respects more reliable, fail to discriminate between artificial objects and 
+meteor trails, ionized gas, rain, or thermal discontinuities in the atmosphere.
+</BODY>
+</HTML>

@@ -1,0 +1,19 @@
+<HTML>
+<HEAD>
+<TITLE>FLYING SAUCER</TITLE></HEAD>
+<BODY background=PA.jpg>
+<P><FONT FACE="COMIC SANS" SIZE=8>FLYING SAUCER</FONT>
+<IMG SRC="N.PNG" ALIGN="LEFT">
+<P><FONT FACE="TIMES NEW ROMAN" SIZE=6>The first well-known UFO sighting occurred in 1947, when businessman Kenneth Arnold claimed to see a group of nine high-speed 
+objects near Mount Rainier in Washington while flying his small plane. Arnold estimated the speed of the crescent-shaped objects as several thousand miles 
+per hour and said they moved “like saucers skipping on water.” In the newspaper report that followed, it was mistakenly stated that the objects were saucer-shaped, 
+hence the term flying saucer.
+<P>Sightings of unidentified aerial phenomena increased, and in 1948 the U.S. Air Force began an investigation of these reports called Project Sign. 
+The initial opinion of those involved with the project was that the UFOs were most likely sophisticated Soviet aircraft, although some researchers 
+suggested that they might be spacecraft from other worlds, the so-called extraterrestrial hypothesis. Within a year, Project Sign was succeeded by
+ Project Grudge, which in 1952 was itself replaced by the longest-lived of the official inquiries into UFOs, Project Blue Book, headquartered at Wright-Patterson 
+Air Force Base in Dayton, Ohio. From 1952 to 1969 Project Blue Book compiled reports of more than 12,000 sightings or events, each of which was ultimately classified 
+as “identified” with a known astronomical, atmospheric, or artificial phenomenon or “unidentified.” The latter category, approximately 6
+ percent of the total, included cases for which there was insufficient information to make an identification with a known phenomenon.
+ </BODY>
+</HTML>S

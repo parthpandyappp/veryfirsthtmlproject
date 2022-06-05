@@ -1,0 +1,15 @@
+<HTML>
+<HEAD>
+<TITLE>PLATO'S ATLANTIS</TITLE></HEAD>
+<BODY background=PA.jpg>
+<P><FONT FACE="COMIC SANS" SIZE=8>PLATO'S ATLANTIS</FONT>
+<IMG SRC="G.JPG" ALIGN="LEFT">
+<P><FONT FACE="TIMES NEW ROMAN" SIZE=6>Plato (through the character Critias in his dialogues) describes Atlantis as an island
+ larger than Libya and Asia Minor put together, located in the Atlantic just beyond the Pillars of Hercules—generally assumed to mean 
+the Strait of Gibraltar. Its culture was advanced and it had a constitution suspiciously similar to the one outlined in Plato’s “Republic.”
+ It was protected by the god Poseidon, who made his son Atlas king and namesake of the island and the ocean that surrounded it. As the 
+Atlanteans grew powerful, their ethics declined. Their armies eventually conquered Africa as far as Egypt and Europe as far as Tyrrhenia 
+(Etruscan Italy) before being driven back by an Athenian-led alliance. Later, by way of divine punishment, the island was beset by 
+earthquakes and floods, and sank into a muddy sea.</FONT>
+</BODY>
+</HTML>

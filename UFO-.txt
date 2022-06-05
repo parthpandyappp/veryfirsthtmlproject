@@ -1,0 +1,15 @@
+<HTML>
+<HEAD>
+<TITLE>UNIDENTIFIED FLYING OBJECT</TITLE></HEAD>
+<BODY background=PA.jpg>
+<P><FONT FACE="COMIC SANS" SIZE=8>UNIDENTIFIED FLYING OBJECT</FONT>
+<IMG SRC="M.JPG" ALIGN="LEFT">
+<P><FONT FACE="TIMES NEW ROMAN" SIZE=6>In popular culture, the term UFO–or unidentified flying object–refers 
+to a suspected alien spacecraft, although its definition encompasses any unexplained aerial phenomena. UFO sightings 
+have been reported throughout recorded history and in various parts of the world, raising questions about life on
+ other planets and whether extraterrestrials have visited Earth. They became a major subject of interest–and the
+ inspiration behind numerous films and books–following the development of rocketry after World War II.</FONT>
+<br><br><br><br><A HREF=FLYINGSAUCERS.HTML>FLYING SAUCERS</A>
+<BR><A HREF=UFOSIGHTINGS.HTML>POSIIBLE EXPLANATIONS OF UFO SIGHTINGS</A>
+</BODY>
+</HTML>
